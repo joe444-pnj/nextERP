@@ -15,7 +15,7 @@
 
 A professional, cloud-ready Enterprise Resource Planning (ERP) solution designed for modern retail management. NextERP streamlines inventory tracking, procurement, warehouse management, and sales monitoring into a single, cohesive dashboard.
 
-## 📸 Screenshots
+##  Screenshots
 
 <div align="center">
   <img src="docs/assets/dashboard.png" alt="Dashboard View" width="800" />
@@ -25,7 +25,7 @@ A professional, cloud-ready Enterprise Resource Planning (ERP) solution designed
   <p><em>Product Management & Data Entry</em></p>
 </div>
 
-## 🚀 Features
+##  Features
 
 -   **Inventory Management**: Real-time stock tracking with SKU, barcode, and shelf-tag support.
 -   **Procurement Module**: Manage Purchase Requests, Purchase Orders, and Supplier Invoices.
@@ -36,7 +36,7 @@ A professional, cloud-ready Enterprise Resource Planning (ERP) solution designed
 -   **Modern UI/UX**: Built with React, Tailwind CSS, and Framer Motion for a responsive, fluid experience.
 -   **Multi-Language Support**: Full RTL support (English/Arabic).
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 -   **Frontend**: React, TypeScript, Vite
 -   **Styling**: Tailwind CSS, PostCSS
@@ -44,11 +44,11 @@ A professional, cloud-ready Enterprise Resource Planning (ERP) solution designed
 -   **Icons**: Lucide React
 -   **AI Integration**: Google Generative AI SDK
 
-## 📦 Installation
+##  Installation
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/nexterp.git
+    git clone https://github.com/joe444-pnj/nexterp.git
     cd nexterp
     ```
 2.  Install dependencies:
