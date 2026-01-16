@@ -1,9 +1,29 @@
 
 # NextERP - Modern Retail Management System
 
-![NextERP](https://img.shields.io/badge/NextERP-v1.0-blue) ![React](https://img.shields.io/badge/React-18-cyan) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+<div align="center">
+  <img src="docs/assets/logo.png" alt="NextERP Logo" width="120" />
+  <br/>
+  <h1>NextERP</h1>
+  <p>
+    <img src="https://img.shields.io/badge/NextERP-v1.0-blue" alt="Version" />
+    <img src="https://img.shields.io/badge/React-18-cyan" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-5.0-blue" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+  </p>
+</div>
 
-A professional, cloud-ready Enterprise Resource Planning (ERP) solution designed for modern retail environments. NextERP streamlines inventory tracking, procurement, warehouse management, and sales monitoring into a single, cohesive dashboard.
+A professional, cloud-ready Enterprise Resource Planning (ERP) solution designed for modern retail management. NextERP streamlines inventory tracking, procurement, warehouse management, and sales monitoring into a single, cohesive dashboard.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="docs/assets/dashboard.png" alt="Dashboard View" width="800" />
+  <p><em>Real-time Inventory Dashboard</em></p>
+  <br/>
+  <img src="docs/assets/modal.png" alt="Modal View" width="800" />
+  <p><em>Product Management & Data Entry</em></p>
+</div>
 
 ## 🚀 Features
 
